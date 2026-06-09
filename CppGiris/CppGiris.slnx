@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CppGiris/CppGiris.vcxproj" Id="e112240b-46e3-46fd-a7ce-30de53e1b8c4" />
+</Solution>

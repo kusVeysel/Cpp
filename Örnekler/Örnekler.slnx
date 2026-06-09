@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Örnekler/Örnekler.vcxproj" Id="e820ecc3-f417-48f6-bbc2-3234f504aa60" />
+</Solution>

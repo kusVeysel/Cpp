@@ -1,0 +1,4 @@
+﻿  CppGiris.cpp
+C:\Users\veysel\Desktop\C++\CppGiris\CppGiris\CppGiris.cpp(57,13): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\veysel\Desktop\C++\CppGiris\CppGiris\CppGiris.cpp(58,14): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  CppGiris.vcxproj -> C:\Users\veysel\Desktop\C++\CppGiris\x64\Debug\CppGiris.exe
