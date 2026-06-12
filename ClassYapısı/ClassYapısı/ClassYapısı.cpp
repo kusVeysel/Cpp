@@ -1,7 +1,8 @@
-﻿#include <iostream>
+﻿using namespace std;
+
+#include <iostream>
 #include<stdlib.h>
-#include<windows.h>
-/*
+
 class evplani {
 private:
 	string kasaSifresi;
@@ -13,12 +14,13 @@ public:
 			kasaSifresi = yenisifre;
 			cout << "Kasa sifresi guvenle kaydedildi \n\n";
 		}
+		else {
+			cout << "Kasa sifresi kaydedilmedi \n\n";
+		}
 	}
 };
 
-
-int main()
-{
+int main() {
 	evplani evplanim;
 	evplanim.duvarrengi = "yesil";
 	evplanim.odasayisi = 3;
@@ -31,7 +33,6 @@ int main()
 	evplanim2.sifrebelirleme("2536");
 	cout << "Evin plani: renk => " << evplanim2.duvarrengi << "\nodasayisi => " << evplanim2.odasayisi<<"\n";
 }
-*/
 
 /*
 class galeri {
@@ -81,19 +82,19 @@ int main() {
 }
 */
 
+/*
 class ogrenci {
 public:
-	std::string ogrenciadi;
+	string ogrenciadi;
 	int notu;
-	ogrenci(std::string ad, int puan) {
+	ogrenci(string ad, int puan) {
 		notu = puan;
 		ogrenciadi = ad;
-		std::cout << "Ogrenci Adi: " << ogrenciadi << "\nOgrenci Notu: " << notu << "\n";
+		cout << "Ogrenci Adi: " << ogrenciadi << "\nOgrenci Notu: " << notu << "\n";
 	}
 	~ogrenci() {
-		std::cout << "Islem tamamlandi ogrenci siliniyor...\n";
-		Sleep(1500);
-		std::cout << "Ogrenci silindi...\n";
+		cout << "Islem tamamlandi ogrenci siliniyor...\n";
+		cout << "Ogrenci silindi...\n";
 	}
 };
 int main() {
@@ -103,5 +104,4 @@ int main() {
 		ogrenci ogr("Veysel", rand() % 101);
 	}
 }
-
-
+*/
