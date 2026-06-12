@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Switch-Case/Switch-Case.vcxproj" />
+  <Project Path="Switch-Case/Switch-Case.vcxproj" Id="bd7df2c1-7126-44e3-9fab-97af31927307" />
 </Solution>
