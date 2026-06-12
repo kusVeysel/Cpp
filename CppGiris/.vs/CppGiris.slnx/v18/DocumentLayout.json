@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\veysel\\Desktop\\cpp2\\CppGiris\\",
+  "WorkspaceRootPath": "C:\\Users\\veysel\\Desktop\\Cpp\\CppGiris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E112240B-46E3-46FD-A7CE-30DE53E1B8C4}|CppGiris\\CppGiris.vcxproj|C:\\Users\\veysel\\Desktop\\cpp2\\CppGiris\\CppGiris\\CppGiris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E112240B-46E3-46FD-A7CE-30DE53E1B8C4}|CppGiris\\CppGiris.vcxproj|C:\\Users\\veysel\\Desktop\\Cpp\\CppGiris\\CppGiris\\CppGiris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E112240B-46E3-46FD-A7CE-30DE53E1B8C4}|CppGiris\\CppGiris.vcxproj|solutionrelative:CppGiris\\CppGiris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CppGiris.cpp",
-              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\cpp2\\CppGiris\\CppGiris\\CppGiris.cpp",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\Cpp\\CppGiris\\CppGiris\\CppGiris.cpp",
               "RelativeDocumentMoniker": "CppGiris\\CppGiris.cpp",
-              "ToolTip": "C:\\Users\\veysel\\Desktop\\cpp2\\CppGiris\\CppGiris\\CppGiris.cpp",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\Cpp\\CppGiris\\CppGiris\\CppGiris.cpp",
               "RelativeToolTip": "CppGiris\\CppGiris.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
