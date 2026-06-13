@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{CB4B69FB-8981-4BEF-BBE9-FDEB85D259FD}|Proje\\Proje.vcxproj|solutionrelative:Proje\\Proje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{253B554D-373E-40DB-AF8A-D5E71C1A2571}|Solution Items{253B554D-373E-40DB-AF8A-D5E71C1A2571}|C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Filmler.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{253B554D-373E-40DB-AF8A-D5E71C1A2571}|Solution Items{253B554D-373E-40DB-AF8A-D5E71C1A2571}|solutionrelative:Filmler.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Biletler.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:Biletler.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Seanslar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:Seanslar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Filmler.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:Filmler.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{253B554D-373E-40DB-AF8A-D5E71C1A2571}|Solution Items{253B554D-373E-40DB-AF8A-D5E71C1A2571}|C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Seanslar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{253B554D-373E-40DB-AF8A-D5E71C1A2571}|Solution Items{253B554D-373E-40DB-AF8A-D5E71C1A2571}|solutionrelative:Seanslar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{253B554D-373E-40DB-AF8A-D5E71C1A2571}|Solution Items{253B554D-373E-40DB-AF8A-D5E71C1A2571}|C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Biletler.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{253B554D-373E-40DB-AF8A-D5E71C1A2571}|Solution Items{253B554D-373E-40DB-AF8A-D5E71C1A2571}|solutionrelative:Biletler.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +41,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "string",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\string",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\string",
@@ -49,12 +49,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\string",
               "ViewState": "AgIAAEoAAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-13T12:45:50.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T12:45:50.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Biletler.txt",
               "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Biletler.txt",
               "RelativeDocumentMoniker": "Biletler.txt",
@@ -67,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Seanslar.txt",
               "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Seanslar.txt",
               "RelativeDocumentMoniker": "Seanslar.txt",
@@ -80,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Filmler.txt",
               "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Filmler.txt",
               "RelativeDocumentMoniker": "Filmler.txt",
@@ -99,7 +98,7 @@
               "RelativeDocumentMoniker": "Proje\\Proje.cpp",
               "ToolTip": "C:\\Users\\veysel\\Desktop\\Cpp\\Proje\\Proje\\Proje.cpp",
               "RelativeToolTip": "Proje\\Proje.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-13T10:29:41.64Z",
               "EditorCaption": ""
