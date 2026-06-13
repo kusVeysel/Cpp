@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="Biletler.txt" />
+    <File Path="Filmler.txt" />
+    <File Path="Seanslar.txt" />
+  </Folder>
+  <Project Path="Proje/Proje.vcxproj" />
+</Solution>
