@@ -80,7 +80,7 @@ int main() {
 }
 */
 
-/*
+
 void oyun(string karakter, int seviye) {
 	cout << "Karakteriniz: " << karakter << " " << seviye << "\n";
 }
@@ -118,4 +118,3 @@ int main() {
 
 	oyun(karakter,seviye);
 }
-*/
